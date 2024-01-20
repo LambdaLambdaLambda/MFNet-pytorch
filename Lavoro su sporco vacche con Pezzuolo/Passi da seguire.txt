@@ -1,0 +1,4 @@
+1) Creare immagini RGB sovrapponendo in trasparenza il canale termico
+2) Creare maschere di segmentazione usando le immagini create al punto 1)
+3) Creare immagini a 4 canali aggiungendo il canale termico alle immagini RGB
+4) Allenare rete neurale es. MFNet
