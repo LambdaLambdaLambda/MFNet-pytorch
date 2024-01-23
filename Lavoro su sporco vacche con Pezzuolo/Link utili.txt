@@ -1,5 +1,0 @@
-https://paperswithcode.com/dataset/mfnet
-
-https://adas-dataset-v2.flirconservator.com/#downloadguide
-
-https://github.com/ShreyasSkandanS/pst900_thermal_rgb
